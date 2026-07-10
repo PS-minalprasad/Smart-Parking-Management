@@ -73,6 +73,5 @@ The project uses SQLite and creates a database file named:
 parking.db
 ```
 
-## Notes
-This project is ideal for learning Python, Flask, SQLite, and basic OOP design in a practical real-world example.
+
 
