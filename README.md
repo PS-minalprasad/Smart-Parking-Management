@@ -9,13 +9,11 @@ A production-ready parking management web app with a polished dark-mode interfac
 - Calculate parking fees automatically
 - Persist data in a SQLite database
 - Show real-time totals for vehicles and collection
-- Dark-mode UI for a premium experience
 
 ## Project Files
 - app.py – Flask web application and UI
 - parking_service.py – Database-backed parking logic
 - vehicle.py – Original vehicle model classes
-- tests/test_app.py – Regression tests for the service and API
 
 ## How to Run
 
